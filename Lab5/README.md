@@ -56,12 +56,3 @@ _Main Method:_
 
 In your client code (main method), create at least one SavingAccount object and CheckingAccount object. Create a menu system to ask the user to add money (Credit) and withdraw money (Debit) to and from a prompted account.
 
-## Expectations and Grading
- - (10 pts) Create and implement the Account class as described
- - (10 pts) Create and implement the SavingsAccount class as described
- - (10 pts) Create and implement the CheckingAccount class as described
- - (5 pts) Implement a menu system that allows the user to access all functionality of the above three classes.
-
-## Assignment Retrieval, Testing, and Submission
-1. Pull down this repository from GitHub to your local machine.
-1. You can check in your work, as well as push to GitHub, as infrequently or as often as you wish. However, you must ensure that your work is checked in and pushed, as that will be how your assignment is turned in. The code as of the due date and time will be the version that will be graded.
